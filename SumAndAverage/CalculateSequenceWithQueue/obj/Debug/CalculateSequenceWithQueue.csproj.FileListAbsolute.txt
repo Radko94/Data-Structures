@@ -1,0 +1,7 @@
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe.config
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.exe
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\bin\Debug\CalculateSequenceWithQueue.pdb
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.exe
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\CalculateSequenceWithQueue\obj\Debug\CalculateSequenceWithQueue.pdb

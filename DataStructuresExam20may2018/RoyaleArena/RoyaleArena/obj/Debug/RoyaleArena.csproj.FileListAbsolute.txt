@@ -1,0 +1,28 @@
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.exe.config
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csprojResolveAssemblyReference.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csproj.CoreCompileInputs.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.pdb
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.exe.config
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.exe
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.pdb
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\bin\Debug\PowerCollections.dll
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\bin\Debug\PowerCollections.xml
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csprojResolveAssemblyReference.cache
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csproj.CoreCompileInputs.cache
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.exe
+C:\Users\G_ANGELOV\Desktop\RoyaleArena\C#\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.pdb
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.exe.config
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.exe
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\bin\Debug\RoyaleArena.pdb
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\bin\Debug\PowerCollections.dll
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\bin\Debug\PowerCollections.xml
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.exe
+C:\Users\Rado\Desktop\Programing\RoyaleArena\RoyaleArena\obj\Debug\RoyaleArena.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\obj\Debug\AStar.Tests.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\obj\Debug\AStar.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\bin\Debug\AStar.Tests.dll
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\bin\Debug\AStar.Tests.pdb
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\bin\Debug\AStar.exe
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\bin\Debug\AStar.pdb
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\bin\Debug\AStar.exe.config
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\obj\Debug\AStar.Tests.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\obj\Debug\AStar.Tests.dll
+C:\Users\Rado\Desktop\Programing\AStar\AStar.Tests\obj\Debug\AStar.Tests.pdb

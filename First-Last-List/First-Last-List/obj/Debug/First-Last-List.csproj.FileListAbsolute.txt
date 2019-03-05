@@ -1,0 +1,7 @@
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\obj\Debug\First-Last-List.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe.config
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\bin\Debug\First-Last-List.exe
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\bin\Debug\First-Last-List.pdb
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\obj\Debug\First-Last-List.exe
+C:\Users\Rado\Desktop\Programing\First-Last-List\First-Last-List\obj\Debug\First-Last-List.pdb

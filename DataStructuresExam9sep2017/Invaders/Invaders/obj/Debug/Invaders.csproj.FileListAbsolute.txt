@@ -1,0 +1,10 @@
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\bin\Debug\Invaders.exe.config
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\bin\Debug\Invaders.exe
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\bin\Debug\Invaders.pdb
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\bin\Debug\PowerCollections.dll
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\bin\Debug\PowerCollections.xml
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\obj\Debug\Invaders.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\obj\Debug\Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\obj\Debug\Invaders.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\obj\Debug\Invaders.exe
+C:\Users\Rado\Desktop\Programing\DataStructuresExam9sep2017\Invaders\Invaders\obj\Debug\Invaders.pdb

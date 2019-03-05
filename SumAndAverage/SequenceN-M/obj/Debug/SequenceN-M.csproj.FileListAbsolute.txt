@@ -1,0 +1,7 @@
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\bin\Debug\SequenceN-M.exe.config
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\bin\Debug\SequenceN-M.exe
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\bin\Debug\SequenceN-M.pdb
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\obj\Debug\SequenceN-M.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\obj\Debug\SequenceN-M.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\obj\Debug\SequenceN-M.exe
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SequenceN-M\obj\Debug\SequenceN-M.pdb

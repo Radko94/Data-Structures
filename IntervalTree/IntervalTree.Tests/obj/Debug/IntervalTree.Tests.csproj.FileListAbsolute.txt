@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.Tests.dll
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.Tests.pdb
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.exe
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.pdb
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\bin\Debug\IntervalTree.exe.config
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.dll
+C:\Users\Rado\Desktop\Programing\IntervalTree\IntervalTree.Tests\obj\Debug\IntervalTree.Tests.pdb

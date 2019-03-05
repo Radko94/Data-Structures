@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.dll
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.Tests.pdb
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.pdb
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\bin\Debug\AVLTree.exe.config
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.dll
+C:\Users\Rado\Desktop\Programing\AVLTree\AVLTree.Tests\obj\Debug\AVLTree.Tests.pdb

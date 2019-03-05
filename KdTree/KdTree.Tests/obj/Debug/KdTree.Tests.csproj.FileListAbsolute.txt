@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\bin\Debug\KdTree.Tests.dll
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\bin\Debug\KdTree.Tests.pdb
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\bin\Debug\KdTree.exe
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\bin\Debug\KdTree.pdb
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\bin\Debug\KdTree.exe.config
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.dll
+C:\Users\Rado\Desktop\Programing\KdTree\KdTree.Tests\obj\Debug\KdTree.Tests.pdb

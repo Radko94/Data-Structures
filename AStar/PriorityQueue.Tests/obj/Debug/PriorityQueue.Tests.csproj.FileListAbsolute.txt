@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\bin\Debug\PriorityQueue.Tests.dll
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\bin\Debug\PriorityQueue.Tests.pdb
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\bin\Debug\AStar.exe
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\bin\Debug\AStar.pdb
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\bin\Debug\AStar.exe.config
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.dll
+C:\Users\Rado\Desktop\Programing\AStar\PriorityQueue.Tests\obj\Debug\PriorityQueue.Tests.pdb

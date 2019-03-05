@@ -1,0 +1,13 @@
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\ThreadExecutor.exe.config
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\ThreadExecutor.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\ThreadExecutor.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.csprojResolveAssemblyReference.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.csproj.CoreCompileInputs.cache
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.exe
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\obj\Debug\ThreadExecutor.pdb
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\PowerCollections.dll
+C:\Users\G_ANGELOV\Documents\Visual Studio 2017\Projects\ThreadExecutor\ThreadExecutor\bin\Debug\PowerCollections.xml
+C:\Users\Rado\Desktop\Programing\DataStructuresExam20may2018\ThreadExecutorExam\ThreadExecutor\obj\Debug\ThreadExecutor.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresExam20may2018\ThreadExecutorExam\ThreadExecutor\obj\Debug\ThreadExecutor.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresExam20may2018\ThreadExecutorExam\ThreadExecutor\obj\Debug\ThreadExecutor.exe
+C:\Users\Rado\Desktop\Programing\DataStructuresExam20may2018\ThreadExecutorExam\ThreadExecutor\obj\Debug\ThreadExecutor.pdb

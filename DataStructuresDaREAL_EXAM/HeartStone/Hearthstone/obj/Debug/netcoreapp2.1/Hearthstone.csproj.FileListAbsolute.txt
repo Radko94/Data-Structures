@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.deps.json
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.json
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.runtimeconfig.dev.json
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.dll
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\bin\Debug\netcoreapp2.1\Hearthstone.pdb
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.AssemblyInfoInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.AssemblyInfo.cs
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.dll
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.pdb
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\HeartStone\Hearthstone\obj\Debug\netcoreapp2.1\Hearthstone.csprojAssemblyReference.cache

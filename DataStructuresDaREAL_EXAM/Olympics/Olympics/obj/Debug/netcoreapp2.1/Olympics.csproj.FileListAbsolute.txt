@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\bin\Debug\netcoreapp2.1\Olympics.deps.json
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.json
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\bin\Debug\netcoreapp2.1\Olympics.runtimeconfig.dev.json
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\bin\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\bin\Debug\netcoreapp2.1\Olympics.pdb
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\obj\Debug\netcoreapp2.1\Olympics.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\obj\Debug\netcoreapp2.1\Olympics.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfoInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\obj\Debug\netcoreapp2.1\Olympics.AssemblyInfo.cs
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\obj\Debug\netcoreapp2.1\Olympics.dll
+C:\Users\Rado\Desktop\Programing\DataStructuresDaREAL_EXAM\Olympics\Olympics\obj\Debug\netcoreapp2.1\Olympics.pdb

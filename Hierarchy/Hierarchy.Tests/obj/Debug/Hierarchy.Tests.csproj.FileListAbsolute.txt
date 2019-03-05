@@ -1,0 +1,10 @@
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.dll
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\bin\Debug\Hierarchy.Tests.pdb
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\bin\Debug\Hierarchy.Core.pdb
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.dll
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Tests\obj\Debug\Hierarchy.Tests.pdb

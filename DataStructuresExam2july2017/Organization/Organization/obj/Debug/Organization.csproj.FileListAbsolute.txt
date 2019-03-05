@@ -1,0 +1,10 @@
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\bin\Debug\Organization.exe.config
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\bin\Debug\Organization.exe
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\bin\Debug\Organization.pdb
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\bin\Debug\PowerCollections.dll
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\bin\Debug\PowerCollections.xml
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\obj\Debug\Organization.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\obj\Debug\Organization.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\obj\Debug\Organization.exe
+C:\Users\Rado\Desktop\Programing\DataStructuresExam2july2017\Organization\Organization\obj\Debug\Organization.pdb

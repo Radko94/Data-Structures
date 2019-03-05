@@ -1,0 +1,7 @@
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe.config
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.exe
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\bin\Debug\SumAndAverage.pdb
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.exe
+C:\Users\Rado\Desktop\Programing\Data Structures\SumAndAverage\SumAndAverage\obj\Debug\SumAndAverage.pdb

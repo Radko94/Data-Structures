@@ -1,0 +1,11 @@
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\bin\Debug\netcoreapp2.1\TextEditor.deps.json
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\bin\Debug\netcoreapp2.1\TextEditor.runtimeconfig.json
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\bin\Debug\netcoreapp2.1\TextEditor.runtimeconfig.dev.json
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\bin\Debug\netcoreapp2.1\TextEditor.dll
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\bin\Debug\netcoreapp2.1\TextEditor.pdb
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\obj\Debug\netcoreapp2.1\TextEditor.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\obj\Debug\netcoreapp2.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\obj\Debug\netcoreapp2.1\TextEditor.AssemblyInfoInputs.cache
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\obj\Debug\netcoreapp2.1\TextEditor.AssemblyInfo.cs
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\obj\Debug\netcoreapp2.1\TextEditor.dll
+C:\Users\Rado\Desktop\Programing\08. Data-Structures-Ropes-and-Tries-Exercise-CSharp-Skeleton\TextEditor\TextEditor\obj\Debug\netcoreapp2.1\TextEditor.pdb

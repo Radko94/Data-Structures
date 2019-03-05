@@ -1,0 +1,10 @@
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\obj\Debug\Hierarchy.Core.csprojAssemblyReference.cache
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe.config
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\bin\Debug\Hierarchy.Core.exe
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\bin\Debug\Hierarchy.Core.pdb
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.dll
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\bin\Debug\SoftUni.Wintellect.PowerCollections.xml
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\obj\Debug\Hierarchy.Core.csproj.CopyComplete
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\obj\Debug\Hierarchy.Core.exe
+C:\Users\Rado\Desktop\Programing\Hierarchy\Hierarchy.Core\obj\Debug\Hierarchy.Core.pdb
